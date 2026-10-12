@@ -1,0 +1,4 @@
+File handling is an important concept in Python programming. It allows us to 
+create, read, write, and modify files. Python provides functions such as open(),
+read(), write(), and close() to work with files. By learning file handling, 
+programmers can store information permanently and process data whenever required.

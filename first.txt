@@ -1,0 +1,5 @@
+Python is a popular programming language that is easy to learn and use. 
+It is used for web development, automation, data analysis, and artificial 
+intelligence. Beginners can learn Python by practicing simple programs, variables,
+ loops, functions, and file handling. 
+Regular practice helps improve programming skills and problem-solving abilities.
